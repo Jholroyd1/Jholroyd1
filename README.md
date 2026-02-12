@@ -13,10 +13,10 @@ Backend engineer with 3.5+ years building enterprise systems at Wells Fargo. I s
 
 ## What I'm Working On
 
-- 🔨 Building production-ready APIs with TypeScript and Node.js
-- 📊 Developing ML models for sports analytics and predictions
-- 🚀 Contributing to open source and building tools that solve real problems
-- 📚 Learning cloud infrastructure (GCP, AWS) and containerization (Docker/K8s)
+- Building production-ready APIs with TypeScript and Node.js
+- Developing ML models for sports analytics and predictions
+- Contributing to open source and building tools that solve real problems
+- Learning cloud infrastructure (GCP, AWS) and containerization (Docker/K8s)
 
 ## Featured Projects
 
