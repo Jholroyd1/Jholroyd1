@@ -20,12 +20,12 @@ Backend engineer with 3.5+ years building enterprise systems at Wells Fargo. I s
 
 ## Featured Projects
 
-### [MLB Data Collection & Spray Chart](https://github.com/Jholroyd1/MLB_Stats)
+### [MLB Data Collection & Spray Chart](https://github.com/Jholroyd1/MLB-Stats-Collection-and-Spray-Charts)
 Complete data engineering pipeline: API → SQLite → visualization + ML predictions
 - **Tech:** Python, SQLite, Pandas, Matplotlib, Plotly, Scikit-learn
 - **Highlights:** Automated data collection, documented database schema, spray chart generation, machine learning analysis
 
-### [MLB Strikeout Predictions](https://github.com/Jholroyd1/strikeout_prediction)
+### [MLB Strikeout Predictions](https://github.com/Jholroyd1/MLB-Strikeout-Predictions)
 Machine learning model predicting next-season strikeouts for MLB pitchers
 - **Tech:** Python, Pandas, Scikit-learn, Random Forest
 - **Highlights:** 59 engineered features, MAE of 28.66K, 2026 season projections for 339 pitchers
