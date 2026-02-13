@@ -62,6 +62,6 @@ I'm actively seeking **backend engineering and data analysis roles** where I can
 
 ## Let's Connect
 
-- 💼 [LinkedIn](https://linkedin.com/in/jack-holroyd)
-- 📧 jackholroyd96@gmail.com
+- [LinkedIn](https://linkedin.com/in/jack-holroyd)
+- jackholroyd96@gmail.com
 
